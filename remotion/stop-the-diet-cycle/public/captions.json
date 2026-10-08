@@ -1,0 +1,1451 @@
+[
+  {
+    "text": " Let",
+    "startMs": 130,
+    "endMs": 240,
+    "timestampMs": 130,
+    "confidence": null
+  },
+  {
+    "text": " me",
+    "startMs": 240,
+    "endMs": 370,
+    "timestampMs": 240,
+    "confidence": null
+  },
+  {
+    "text": " ask",
+    "startMs": 370,
+    "endMs": 630,
+    "timestampMs": 370,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 630,
+    "endMs": 750,
+    "timestampMs": 630,
+    "confidence": null
+  },
+  {
+    "text": " something,",
+    "startMs": 750,
+    "endMs": 1200,
+    "timestampMs": 750,
+    "confidence": null
+  },
+  {
+    "text": " how",
+    "startMs": 1200,
+    "endMs": 1390,
+    "timestampMs": 1200,
+    "confidence": null
+  },
+  {
+    "text": " many",
+    "startMs": 1390,
+    "endMs": 1600,
+    "timestampMs": 1390,
+    "confidence": null
+  },
+  {
+    "text": " times",
+    "startMs": 1600,
+    "endMs": 1900,
+    "timestampMs": 1600,
+    "confidence": null
+  },
+  {
+    "text": " have",
+    "startMs": 1900,
+    "endMs": 2000,
+    "timestampMs": 1900,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 2000,
+    "endMs": 2160,
+    "timestampMs": 2000,
+    "confidence": null
+  },
+  {
+    "text": " started",
+    "startMs": 2160,
+    "endMs": 2860,
+    "timestampMs": 2160,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 2860,
+    "endMs": 2920,
+    "timestampMs": 2860,
+    "confidence": null
+  },
+  {
+    "text": " new",
+    "startMs": 2920,
+    "endMs": 3150,
+    "timestampMs": 2920,
+    "confidence": null
+  },
+  {
+    "text": " diet",
+    "startMs": 3150,
+    "endMs": 3700,
+    "timestampMs": 3150,
+    "confidence": null
+  },
+  {
+    "text": " with",
+    "startMs": 3940,
+    "endMs": 4100,
+    "timestampMs": 3940,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 4100,
+    "endMs": 4180,
+    "timestampMs": 4100,
+    "confidence": null
+  },
+  {
+    "text": " promise",
+    "startMs": 4180,
+    "endMs": 4570,
+    "timestampMs": 4180,
+    "confidence": null
+  },
+  {
+    "text": " that",
+    "startMs": 4570,
+    "endMs": 4760,
+    "timestampMs": 4570,
+    "confidence": null
+  },
+  {
+    "text": " this",
+    "startMs": 4760,
+    "endMs": 4970,
+    "timestampMs": 4760,
+    "confidence": null
+  },
+  {
+    "text": " time",
+    "startMs": 4970,
+    "endMs": 5220,
+    "timestampMs": 4970,
+    "confidence": null
+  },
+  {
+    "text": " will",
+    "startMs": 5220,
+    "endMs": 5340,
+    "timestampMs": 5220,
+    "confidence": null
+  },
+  {
+    "text": " be",
+    "startMs": 5340,
+    "endMs": 5450,
+    "timestampMs": 5340,
+    "confidence": null
+  },
+  {
+    "text": " different?",
+    "startMs": 5450,
+    "endMs": 5910,
+    "timestampMs": 5450,
+    "confidence": null
+  },
+  {
+    "text": " You",
+    "startMs": 6270,
+    "endMs": 6410,
+    "timestampMs": 6270,
+    "confidence": null
+  },
+  {
+    "text": " clean",
+    "startMs": 6410,
+    "endMs": 6610,
+    "timestampMs": 6410,
+    "confidence": null
+  },
+  {
+    "text": " out",
+    "startMs": 6610,
+    "endMs": 6760,
+    "timestampMs": 6610,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 6760,
+    "endMs": 6820,
+    "timestampMs": 6760,
+    "confidence": null
+  },
+  {
+    "text": " kitchen,",
+    "startMs": 6820,
+    "endMs": 7350,
+    "timestampMs": 6820,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 7530,
+    "endMs": 7620,
+    "timestampMs": 7530,
+    "confidence": null
+  },
+  {
+    "text": " start",
+    "startMs": 7620,
+    "endMs": 7890,
+    "timestampMs": 7620,
+    "confidence": null
+  },
+  {
+    "text": " exercising,",
+    "startMs": 7890,
+    "endMs": 8710,
+    "timestampMs": 7890,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 8950,
+    "endMs": 9040,
+    "timestampMs": 8950,
+    "confidence": null
+  },
+  {
+    "text": " count",
+    "startMs": 9040,
+    "endMs": 9320,
+    "timestampMs": 9040,
+    "confidence": null
+  },
+  {
+    "text": " every",
+    "startMs": 9320,
+    "endMs": 9610,
+    "timestampMs": 9320,
+    "confidence": null
+  },
+  {
+    "text": " calorie,",
+    "startMs": 9610,
+    "endMs": 10140,
+    "timestampMs": 9610,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 10340,
+    "endMs": 10490,
+    "timestampMs": 10340,
+    "confidence": null
+  },
+  {
+    "text": " for",
+    "startMs": 10490,
+    "endMs": 10590,
+    "timestampMs": 10490,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 10590,
+    "endMs": 10700,
+    "timestampMs": 10590,
+    "confidence": null
+  },
+  {
+    "text": " first",
+    "startMs": 10700,
+    "endMs": 11000,
+    "timestampMs": 10700,
+    "confidence": null
+  },
+  {
+    "text": " few",
+    "startMs": 11000,
+    "endMs": 11170,
+    "timestampMs": 11000,
+    "confidence": null
+  },
+  {
+    "text": " weeks",
+    "startMs": 11170,
+    "endMs": 11500,
+    "timestampMs": 11170,
+    "confidence": null
+  },
+  {
+    "text": " you're",
+    "startMs": 11500,
+    "endMs": 11700,
+    "timestampMs": 11500,
+    "confidence": null
+  },
+  {
+    "text": " motivated,",
+    "startMs": 11700,
+    "endMs": 12550,
+    "timestampMs": 11700,
+    "confidence": null
+  },
+  {
+    "text": " but",
+    "startMs": 12780,
+    "endMs": 12940,
+    "timestampMs": 12780,
+    "confidence": null
+  },
+  {
+    "text": " then",
+    "startMs": 12940,
+    "endMs": 13090,
+    "timestampMs": 12940,
+    "confidence": null
+  },
+  {
+    "text": " real",
+    "startMs": 13090,
+    "endMs": 13400,
+    "timestampMs": 13090,
+    "confidence": null
+  },
+  {
+    "text": " life",
+    "startMs": 13400,
+    "endMs": 13580,
+    "timestampMs": 13400,
+    "confidence": null
+  },
+  {
+    "text": " happens.",
+    "startMs": 13580,
+    "endMs": 14040,
+    "timestampMs": 13580,
+    "confidence": null
+  },
+  {
+    "text": " You're",
+    "startMs": 14040,
+    "endMs": 14210,
+    "timestampMs": 14040,
+    "confidence": null
+  },
+  {
+    "text": " busy,",
+    "startMs": 14210,
+    "endMs": 14640,
+    "timestampMs": 14210,
+    "confidence": null
+  },
+  {
+    "text": " you're",
+    "startMs": 14640,
+    "endMs": 14790,
+    "timestampMs": 14640,
+    "confidence": null
+  },
+  {
+    "text": " stressed,",
+    "startMs": 14790,
+    "endMs": 15400,
+    "timestampMs": 14790,
+    "confidence": null
+  },
+  {
+    "text": " you're",
+    "startMs": 15400,
+    "endMs": 15530,
+    "timestampMs": 15400,
+    "confidence": null
+  },
+  {
+    "text": " tired.",
+    "startMs": 15530,
+    "endMs": 16010,
+    "timestampMs": 15530,
+    "confidence": null
+  },
+  {
+    "text": " The",
+    "startMs": 16280,
+    "endMs": 16410,
+    "timestampMs": 16280,
+    "confidence": null
+  },
+  {
+    "text": " plan",
+    "startMs": 16410,
+    "endMs": 16860,
+    "timestampMs": 16410,
+    "confidence": null
+  },
+  {
+    "text": " becomes",
+    "startMs": 16860,
+    "endMs": 17240,
+    "timestampMs": 16860,
+    "confidence": null
+  },
+  {
+    "text": " harder",
+    "startMs": 17240,
+    "endMs": 17620,
+    "timestampMs": 17240,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 17620,
+    "endMs": 17740,
+    "timestampMs": 17620,
+    "confidence": null
+  },
+  {
+    "text": " follow",
+    "startMs": 17740,
+    "endMs": 18290,
+    "timestampMs": 17740,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 18290,
+    "endMs": 18420,
+    "timestampMs": 18290,
+    "confidence": null
+  },
+  {
+    "text": " eventually",
+    "startMs": 18420,
+    "endMs": 19110,
+    "timestampMs": 18420,
+    "confidence": null
+  },
+  {
+    "text": " you're",
+    "startMs": 19350,
+    "endMs": 19540,
+    "timestampMs": 19350,
+    "confidence": null
+  },
+  {
+    "text": " back",
+    "startMs": 19540,
+    "endMs": 19850,
+    "timestampMs": 19540,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 19850,
+    "endMs": 19990,
+    "timestampMs": 19850,
+    "confidence": null
+  },
+  {
+    "text": " where",
+    "startMs": 19990,
+    "endMs": 20190,
+    "timestampMs": 19990,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 20190,
+    "endMs": 20330,
+    "timestampMs": 20190,
+    "confidence": null
+  },
+  {
+    "text": " started.",
+    "startMs": 20330,
+    "endMs": 20840,
+    "timestampMs": 20330,
+    "confidence": null
+  },
+  {
+    "text": " If",
+    "startMs": 21250,
+    "endMs": 21380,
+    "timestampMs": 21250,
+    "confidence": null
+  },
+  {
+    "text": " this",
+    "startMs": 21380,
+    "endMs": 21560,
+    "timestampMs": 21380,
+    "confidence": null
+  },
+  {
+    "text": " cycle",
+    "startMs": 21560,
+    "endMs": 21890,
+    "timestampMs": 21560,
+    "confidence": null
+  },
+  {
+    "text": " sounds",
+    "startMs": 21890,
+    "endMs": 22180,
+    "timestampMs": 21890,
+    "confidence": null
+  },
+  {
+    "text": " familiar,",
+    "startMs": 22180,
+    "endMs": 22720,
+    "timestampMs": 22180,
+    "confidence": null
+  },
+  {
+    "text": " Maybe",
+    "startMs": 22890,
+    "endMs": 23150,
+    "timestampMs": 22890,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 23150,
+    "endMs": 23280,
+    "timestampMs": 23150,
+    "confidence": null
+  },
+  {
+    "text": " answer",
+    "startMs": 23280,
+    "endMs": 23690,
+    "timestampMs": 23280,
+    "confidence": null
+  },
+  {
+    "text": " isn't",
+    "startMs": 23690,
+    "endMs": 24040,
+    "timestampMs": 23690,
+    "confidence": null
+  },
+  {
+    "text": " another",
+    "startMs": 24040,
+    "endMs": 24370,
+    "timestampMs": 24040,
+    "confidence": null
+  },
+  {
+    "text": " strict",
+    "startMs": 24370,
+    "endMs": 24740,
+    "timestampMs": 24370,
+    "confidence": null
+  },
+  {
+    "text": " diet.",
+    "startMs": 24740,
+    "endMs": 25180,
+    "timestampMs": 24740,
+    "confidence": null
+  },
+  {
+    "text": " Maybe",
+    "startMs": 25470,
+    "endMs": 25740,
+    "timestampMs": 25470,
+    "confidence": null
+  },
+  {
+    "text": " it's",
+    "startMs": 25740,
+    "endMs": 25890,
+    "timestampMs": 25740,
+    "confidence": null
+  },
+  {
+    "text": " time",
+    "startMs": 25890,
+    "endMs": 26190,
+    "timestampMs": 25890,
+    "confidence": null
+  },
+  {
+    "text": " for",
+    "startMs": 26190,
+    "endMs": 26340,
+    "timestampMs": 26190,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 26340,
+    "endMs": 26380,
+    "timestampMs": 26340,
+    "confidence": null
+  },
+  {
+    "text": " different",
+    "startMs": 26380,
+    "endMs": 26720,
+    "timestampMs": 26380,
+    "confidence": null
+  },
+  {
+    "text": " strategy.",
+    "startMs": 26720,
+    "endMs": 27310,
+    "timestampMs": 26720,
+    "confidence": null
+  },
+  {
+    "text": " At",
+    "startMs": 27650,
+    "endMs": 27810,
+    "timestampMs": 27650,
+    "confidence": null
+  },
+  {
+    "text": " Lifetime",
+    "startMs": 27810,
+    "endMs": 28280,
+    "timestampMs": 27810,
+    "confidence": null
+  },
+  {
+    "text": " Clinical",
+    "startMs": 28280,
+    "endMs": 28660,
+    "timestampMs": 28280,
+    "confidence": null
+  },
+  {
+    "text": " Weight",
+    "startMs": 28660,
+    "endMs": 28860,
+    "timestampMs": 28660,
+    "confidence": null
+  },
+  {
+    "text": " Control,",
+    "startMs": 28860,
+    "endMs": 29430,
+    "timestampMs": 28860,
+    "confidence": null
+  },
+  {
+    "text": " we",
+    "startMs": 29560,
+    "endMs": 29860,
+    "timestampMs": 29560,
+    "confidence": null
+  },
+  {
+    "text": " believe",
+    "startMs": 29860,
+    "endMs": 30230,
+    "timestampMs": 29860,
+    "confidence": null
+  },
+  {
+    "text": " weight",
+    "startMs": 30230,
+    "endMs": 30490,
+    "timestampMs": 30230,
+    "confidence": null
+  },
+  {
+    "text": " management",
+    "startMs": 30490,
+    "endMs": 30990,
+    "timestampMs": 30490,
+    "confidence": null
+  },
+  {
+    "text": " should",
+    "startMs": 30990,
+    "endMs": 31180,
+    "timestampMs": 30990,
+    "confidence": null
+  },
+  {
+    "text": " be",
+    "startMs": 31180,
+    "endMs": 31260,
+    "timestampMs": 31180,
+    "confidence": null
+  },
+  {
+    "text": " personalized",
+    "startMs": 31260,
+    "endMs": 31990,
+    "timestampMs": 31260,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 31990,
+    "endMs": 32110,
+    "timestampMs": 31990,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 32110,
+    "endMs": 32240,
+    "timestampMs": 32110,
+    "confidence": null
+  },
+  {
+    "text": " individual.",
+    "startMs": 32240,
+    "endMs": 32830,
+    "timestampMs": 32240,
+    "confidence": null
+  },
+  {
+    "text": " That's",
+    "startMs": 33160,
+    "endMs": 33430,
+    "timestampMs": 33160,
+    "confidence": null
+  },
+  {
+    "text": " why",
+    "startMs": 33430,
+    "endMs": 33600,
+    "timestampMs": 33430,
+    "confidence": null
+  },
+  {
+    "text": " we",
+    "startMs": 33600,
+    "endMs": 33730,
+    "timestampMs": 33600,
+    "confidence": null
+  },
+  {
+    "text": " look",
+    "startMs": 33730,
+    "endMs": 33940,
+    "timestampMs": 33730,
+    "confidence": null
+  },
+  {
+    "text": " at",
+    "startMs": 33940,
+    "endMs": 34090,
+    "timestampMs": 33940,
+    "confidence": null
+  },
+  {
+    "text": " more",
+    "startMs": 34090,
+    "endMs": 34330,
+    "timestampMs": 34090,
+    "confidence": null
+  },
+  {
+    "text": " than",
+    "startMs": 34330,
+    "endMs": 34520,
+    "timestampMs": 34330,
+    "confidence": null
+  },
+  {
+    "text": " just",
+    "startMs": 34520,
+    "endMs": 34760,
+    "timestampMs": 34520,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 34760,
+    "endMs": 34860,
+    "timestampMs": 34760,
+    "confidence": null
+  },
+  {
+    "text": " number",
+    "startMs": 34860,
+    "endMs": 35200,
+    "timestampMs": 34860,
+    "confidence": null
+  },
+  {
+    "text": " on",
+    "startMs": 35200,
+    "endMs": 35330,
+    "timestampMs": 35200,
+    "confidence": null
+  },
+  {
+    "text": " your",
+    "startMs": 35330,
+    "endMs": 35450,
+    "timestampMs": 35330,
+    "confidence": null
+  },
+  {
+    "text": " scale.",
+    "startMs": 35450,
+    "endMs": 35890,
+    "timestampMs": 35450,
+    "confidence": null
+  },
+  {
+    "text": " We",
+    "startMs": 36320,
+    "endMs": 36420,
+    "timestampMs": 36320,
+    "confidence": null
+  },
+  {
+    "text": " consider",
+    "startMs": 36420,
+    "endMs": 36800,
+    "timestampMs": 36420,
+    "confidence": null
+  },
+  {
+    "text": " your",
+    "startMs": 36800,
+    "endMs": 36980,
+    "timestampMs": 36800,
+    "confidence": null
+  },
+  {
+    "text": " body",
+    "startMs": 36980,
+    "endMs": 37220,
+    "timestampMs": 36980,
+    "confidence": null
+  },
+  {
+    "text": " composition,",
+    "startMs": 37220,
+    "endMs": 38250,
+    "timestampMs": 37220,
+    "confidence": null
+  },
+  {
+    "text": " metabolism,",
+    "startMs": 38250,
+    "endMs": 39120,
+    "timestampMs": 38250,
+    "confidence": null
+  },
+  {
+    "text": " lifestyle,",
+    "startMs": 39330,
+    "endMs": 40100,
+    "timestampMs": 39330,
+    "confidence": null
+  },
+  {
+    "text": " goals,",
+    "startMs": 40290,
+    "endMs": 40830,
+    "timestampMs": 40290,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 40990,
+    "endMs": 41230,
+    "timestampMs": 40990,
+    "confidence": null
+  },
+  {
+    "text": " other",
+    "startMs": 41230,
+    "endMs": 41470,
+    "timestampMs": 41230,
+    "confidence": null
+  },
+  {
+    "text": " individual",
+    "startMs": 41470,
+    "endMs": 41940,
+    "timestampMs": 41470,
+    "confidence": null
+  },
+  {
+    "text": " factors",
+    "startMs": 41940,
+    "endMs": 42610,
+    "timestampMs": 41940,
+    "confidence": null
+  },
+  {
+    "text": " that",
+    "startMs": 42610,
+    "endMs": 42900,
+    "timestampMs": 42610,
+    "confidence": null
+  },
+  {
+    "text": " may",
+    "startMs": 42900,
+    "endMs": 43100,
+    "timestampMs": 42900,
+    "confidence": null
+  },
+  {
+    "text": " affect",
+    "startMs": 43100,
+    "endMs": 43510,
+    "timestampMs": 43100,
+    "confidence": null
+  },
+  {
+    "text": " your",
+    "startMs": 43510,
+    "endMs": 43630,
+    "timestampMs": 43510,
+    "confidence": null
+  },
+  {
+    "text": " progress.",
+    "startMs": 43630,
+    "endMs": 44310,
+    "timestampMs": 43630,
+    "confidence": null
+  },
+  {
+    "text": " because",
+    "startMs": 44480,
+    "endMs": 44780,
+    "timestampMs": 44480,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 44780,
+    "endMs": 44880,
+    "timestampMs": 44780,
+    "confidence": null
+  },
+  {
+    "text": " shouldn't",
+    "startMs": 44880,
+    "endMs": 45180,
+    "timestampMs": 44880,
+    "confidence": null
+  },
+  {
+    "text": " have",
+    "startMs": 45180,
+    "endMs": 45350,
+    "timestampMs": 45180,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 45350,
+    "endMs": 45450,
+    "timestampMs": 45350,
+    "confidence": null
+  },
+  {
+    "text": " spend",
+    "startMs": 45450,
+    "endMs": 45740,
+    "timestampMs": 45450,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 45740,
+    "endMs": 45810,
+    "timestampMs": 45740,
+    "confidence": null
+  },
+  {
+    "text": " rest",
+    "startMs": 45810,
+    "endMs": 46160,
+    "timestampMs": 45810,
+    "confidence": null
+  },
+  {
+    "text": " of",
+    "startMs": 46160,
+    "endMs": 46230,
+    "timestampMs": 46160,
+    "confidence": null
+  },
+  {
+    "text": " your",
+    "startMs": 46230,
+    "endMs": 46350,
+    "timestampMs": 46230,
+    "confidence": null
+  },
+  {
+    "text": " life",
+    "startMs": 46350,
+    "endMs": 46620,
+    "timestampMs": 46350,
+    "confidence": null
+  },
+  {
+    "text": " jumping",
+    "startMs": 46620,
+    "endMs": 47030,
+    "timestampMs": 46620,
+    "confidence": null
+  },
+  {
+    "text": " from",
+    "startMs": 47030,
+    "endMs": 47260,
+    "timestampMs": 47030,
+    "confidence": null
+  },
+  {
+    "text": " one",
+    "startMs": 47260,
+    "endMs": 47460,
+    "timestampMs": 47260,
+    "confidence": null
+  },
+  {
+    "text": " diet",
+    "startMs": 47460,
+    "endMs": 47870,
+    "timestampMs": 47460,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 47870,
+    "endMs": 48020,
+    "timestampMs": 47870,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 48020,
+    "endMs": 48110,
+    "timestampMs": 48020,
+    "confidence": null
+  },
+  {
+    "text": " next.",
+    "startMs": 48110,
+    "endMs": 48590,
+    "timestampMs": 48110,
+    "confidence": null
+  },
+  {
+    "text": " You",
+    "startMs": 48850,
+    "endMs": 48990,
+    "timestampMs": 48850,
+    "confidence": null
+  },
+  {
+    "text": " deserve",
+    "startMs": 48990,
+    "endMs": 49300,
+    "timestampMs": 48990,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 49300,
+    "endMs": 49360,
+    "timestampMs": 49300,
+    "confidence": null
+  },
+  {
+    "text": " plan",
+    "startMs": 49360,
+    "endMs": 49670,
+    "timestampMs": 49360,
+    "confidence": null
+  },
+  {
+    "text": " that",
+    "startMs": 49670,
+    "endMs": 49840,
+    "timestampMs": 49670,
+    "confidence": null
+  },
+  {
+    "text": " fits",
+    "startMs": 49840,
+    "endMs": 50060,
+    "timestampMs": 49840,
+    "confidence": null
+  },
+  {
+    "text": " into",
+    "startMs": 50060,
+    "endMs": 50280,
+    "timestampMs": 50060,
+    "confidence": null
+  },
+  {
+    "text": " your",
+    "startMs": 50280,
+    "endMs": 50440,
+    "timestampMs": 50280,
+    "confidence": null
+  },
+  {
+    "text": " real",
+    "startMs": 50440,
+    "endMs": 50690,
+    "timestampMs": 50440,
+    "confidence": null
+  },
+  {
+    "text": " life",
+    "startMs": 50690,
+    "endMs": 50910,
+    "timestampMs": 50690,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 50910,
+    "endMs": 51020,
+    "timestampMs": 50910,
+    "confidence": null
+  },
+  {
+    "text": " professional",
+    "startMs": 51020,
+    "endMs": 51540,
+    "timestampMs": 51020,
+    "confidence": null
+  },
+  {
+    "text": " guidance",
+    "startMs": 51540,
+    "endMs": 52030,
+    "timestampMs": 51540,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 52170,
+    "endMs": 52290,
+    "timestampMs": 52170,
+    "confidence": null
+  },
+  {
+    "text": " help",
+    "startMs": 52290,
+    "endMs": 52550,
+    "timestampMs": 52290,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 52550,
+    "endMs": 52660,
+    "timestampMs": 52550,
+    "confidence": null
+  },
+  {
+    "text": " stay",
+    "startMs": 52660,
+    "endMs": 52950,
+    "timestampMs": 52660,
+    "confidence": null
+  },
+  {
+    "text": " on",
+    "startMs": 52950,
+    "endMs": 53090,
+    "timestampMs": 52950,
+    "confidence": null
+  },
+  {
+    "text": " track.",
+    "startMs": 53090,
+    "endMs": 53560,
+    "timestampMs": 53090,
+    "confidence": null
+  },
+  {
+    "text": " So",
+    "startMs": 53900,
+    "endMs": 54040,
+    "timestampMs": 53900,
+    "confidence": null
+  },
+  {
+    "text": " if",
+    "startMs": 54040,
+    "endMs": 54170,
+    "timestampMs": 54040,
+    "confidence": null
+  },
+  {
+    "text": " you're",
+    "startMs": 54170,
+    "endMs": 54370,
+    "timestampMs": 54170,
+    "confidence": null
+  },
+  {
+    "text": " ready",
+    "startMs": 54370,
+    "endMs": 54620,
+    "timestampMs": 54370,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 54620,
+    "endMs": 54730,
+    "timestampMs": 54620,
+    "confidence": null
+  },
+  {
+    "text": " stop",
+    "startMs": 54730,
+    "endMs": 55050,
+    "timestampMs": 54730,
+    "confidence": null
+  },
+  {
+    "text": " starting",
+    "startMs": 55050,
+    "endMs": 55470,
+    "timestampMs": 55050,
+    "confidence": null
+  },
+  {
+    "text": " over,",
+    "startMs": 55470,
+    "endMs": 55850,
+    "timestampMs": 55470,
+    "confidence": null
+  },
+  {
+    "text": " take",
+    "startMs": 56050,
+    "endMs": 56260,
+    "timestampMs": 56050,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 56260,
+    "endMs": 56330,
+    "timestampMs": 56260,
+    "confidence": null
+  },
+  {
+    "text": " first",
+    "startMs": 56330,
+    "endMs": 56600,
+    "timestampMs": 56330,
+    "confidence": null
+  },
+  {
+    "text": " step.",
+    "startMs": 56600,
+    "endMs": 56940,
+    "timestampMs": 56600,
+    "confidence": null
+  },
+  {
+    "text": " Schedule",
+    "startMs": 57350,
+    "endMs": 57730,
+    "timestampMs": 57350,
+    "confidence": null
+  },
+  {
+    "text": " your",
+    "startMs": 57730,
+    "endMs": 57880,
+    "timestampMs": 57730,
+    "confidence": null
+  },
+  {
+    "text": " forty",
+    "startMs": 57880,
+    "endMs": 58190,
+    "timestampMs": 57880,
+    "confidence": null
+  },
+  {
+    "text": " nine",
+    "startMs": 58190,
+    "endMs": 58460,
+    "timestampMs": 58190,
+    "confidence": null
+  },
+  {
+    "text": " dollar",
+    "startMs": 58460,
+    "endMs": 58870,
+    "timestampMs": 58460,
+    "confidence": null
+  },
+  {
+    "text": " new",
+    "startMs": 58870,
+    "endMs": 59050,
+    "timestampMs": 58870,
+    "confidence": null
+  },
+  {
+    "text": " client",
+    "startMs": 59050,
+    "endMs": 59340,
+    "timestampMs": 59050,
+    "confidence": null
+  },
+  {
+    "text": " discovery",
+    "startMs": 59340,
+    "endMs": 59750,
+    "timestampMs": 59340,
+    "confidence": null
+  },
+  {
+    "text": " visit",
+    "startMs": 59750,
+    "endMs": 60200,
+    "timestampMs": 59750,
+    "confidence": null
+  },
+  {
+    "text": " with",
+    "startMs": 60470,
+    "endMs": 60680,
+    "timestampMs": 60470,
+    "confidence": null
+  },
+  {
+    "text": " Lifetime",
+    "startMs": 60680,
+    "endMs": 61240,
+    "timestampMs": 60680,
+    "confidence": null
+  },
+  {
+    "text": " Clinical",
+    "startMs": 61240,
+    "endMs": 61610,
+    "timestampMs": 61240,
+    "confidence": null
+  },
+  {
+    "text": " Weight",
+    "startMs": 61610,
+    "endMs": 61810,
+    "timestampMs": 61610,
+    "confidence": null
+  },
+  {
+    "text": " Control.",
+    "startMs": 61810,
+    "endMs": 62410,
+    "timestampMs": 61810,
+    "confidence": null
+  },
+  {
+    "text": " Call",
+    "startMs": 62830,
+    "endMs": 63220,
+    "timestampMs": 62830,
+    "confidence": null
+  },
+  {
+    "text": " eight",
+    "startMs": 63220,
+    "endMs": 63510,
+    "timestampMs": 63220,
+    "confidence": null
+  },
+  {
+    "text": " four",
+    "startMs": 63510,
+    "endMs": 63830,
+    "timestampMs": 63510,
+    "confidence": null
+  },
+  {
+    "text": " four",
+    "startMs": 63830,
+    "endMs": 64310,
+    "timestampMs": 63830,
+    "confidence": null
+  },
+  {
+    "text": " eight",
+    "startMs": 64420,
+    "endMs": 64640,
+    "timestampMs": 64420,
+    "confidence": null
+  },
+  {
+    "text": " three",
+    "startMs": 64640,
+    "endMs": 64930,
+    "timestampMs": 64640,
+    "confidence": null
+  },
+  {
+    "text": " two",
+    "startMs": 64930,
+    "endMs": 65450,
+    "timestampMs": 64930,
+    "confidence": null
+  },
+  {
+    "text": " eight",
+    "startMs": 65450,
+    "endMs": 65650,
+    "timestampMs": 65450,
+    "confidence": null
+  },
+  {
+    "text": " five",
+    "startMs": 65650,
+    "endMs": 65870,
+    "timestampMs": 65650,
+    "confidence": null
+  },
+  {
+    "text": " six",
+    "startMs": 65870,
+    "endMs": 66120,
+    "timestampMs": 65870,
+    "confidence": null
+  },
+  {
+    "text": " seven",
+    "startMs": 66120,
+    "endMs": 66410,
+    "timestampMs": 66120,
+    "confidence": null
+  },
+  {
+    "text": " today.",
+    "startMs": 66410,
+    "endMs": 66830,
+    "timestampMs": 66410,
+    "confidence": null
+  }
+]

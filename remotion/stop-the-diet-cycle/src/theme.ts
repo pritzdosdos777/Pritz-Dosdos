@@ -1,0 +1,1 @@
+export const theme={white:'#FFFFFF',yellow:'#F4E735',black:'#111315',muted:'#A9ABAE',panel:'#1D2023',font:'CaptionBold, sans-serif',body:'BodyRegular, sans-serif',safe:{left:88,right:150,top:160,bottom:280}};
