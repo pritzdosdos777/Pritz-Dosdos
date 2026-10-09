@@ -15,3 +15,5 @@ The ZIP contains the complete editable project and media. Source-only files are 
 Validation: TypeScript check, Remotion Studio HTTP/preview availability, rendered frame inspection of a narrated graphic and the contact scene, caption timestamp bounds, H.264/AAC metadata and complete output decoding.
 
 Brand reference: https://andersonchiroterrehaute.com/
+
+The user explicitly approved public publication of this video and its original source footage on October 10, 2026 (Asia/Taipei).
